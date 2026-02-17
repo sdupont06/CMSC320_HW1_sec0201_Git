@@ -1,3 +1,7 @@
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Any type of prediction system like movie recommendations, setting betting lines, etc.
+
+Q1: Why might we consider using Git?
+
+Answer: To streamline collaboration and development
