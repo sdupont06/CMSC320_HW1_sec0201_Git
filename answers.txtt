@@ -1,0 +1,5 @@
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Both serve to combine seperate branches, but rebasing does not preserve the history of branch creation while merging does.
+
