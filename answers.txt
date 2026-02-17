@@ -5,3 +5,7 @@ Answer: Learning and pushing myself more!
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Both serve to combine seperate branches, however merging preserves branch creation history while rebasing does not.
+
+Q1: Why might we consider using Git?
+
+Answer: To streamline collaboration and development
