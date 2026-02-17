@@ -1,3 +1,7 @@
 Q4: What are you looking forward to this semester?
 
 Answer: Learning and pushing myself more!
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Both serve to combine seperate branches, however merging preserves branch creation history while rebasing does not.
